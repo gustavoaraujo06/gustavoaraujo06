@@ -31,10 +31,7 @@
 <h2 align="left">Estatisticas</h2>
 
 ###
-
-<div align="center">
-  ![gustavoaraujo06's Stats](https://github-readme-stats.vercel.app/api?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  ![gustavoaraujo06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>
+![gustavoaraujo06's Stats](https://github-readme-stats.vercel.app/api?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![gustavoaraujo06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ###
