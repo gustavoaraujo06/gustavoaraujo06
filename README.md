@@ -33,5 +33,5 @@
 ###
 ![gustavoaraujo06's Stats](https://github-readme-stats.vercel.app/api?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![gustavoaraujo06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaraujo06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoaraujo06&bg_color=1a1b27&color=00d5ff&line=70a5fd&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ###
