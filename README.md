@@ -1,4 +1,4 @@
-<h2 align="left">Estagiaro em Freedom IT</h2>
+<h2 align="left">Estágiario em Freedom IT</h2>
 
 ###
 
